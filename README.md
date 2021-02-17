@@ -1,5 +1,5 @@
 # HolographicDisplays
-Simple holographic displays patched for 1.7.X - 1.8.X spigots
+Simple holographic displays patched for 1.7 - 1.8 spigots
 
 Bukkit Dev Page: http://dev.bukkit.org/bukkit-plugins/holographic-displays
 
