@@ -1,0 +1,9 @@
+#
+# List of unicode symbols: http://www.fileformat.info/info/unicode/index.htm
+#
+[ x ]: \u2588
+[ / ]: \u258C
+[ . ]: \u2591
+[ .. ]: \u2592
+[ ... ]: \u2593
+[ p ]: \u2022
