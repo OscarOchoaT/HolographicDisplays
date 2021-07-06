@@ -22,7 +22,7 @@ public abstract class AbstractPacket {
     }
 
     public PacketContainer getHandle() {
-        /* 54 */
+
         return this.handle;
     }
 
